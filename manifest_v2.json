@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "com.qqrt.band",
+    "restype": "quick_app",
+    "name": "QQRT",
+    "description": "QQRT 是一款为小米手环 9 Pro、红米手表 6 等 Vela 手表打造的轻量 QQ 聊天客户端。搭配服务端使用，手表上就能查看好友和群聊、收发文字消息、查看图片与表情，支持全键盘拼音输入、长按引用/删除、点图看大图，消息自动跟随滚动。(原创：山城音&小猪 适配：南悸 交流群：801524531 服务器部署可进群获取）",
+    "preview": [
+      "media/preview-1-login.png",
+      "media/preview-2-list.png",
+      "media/preview-3-chat.png"
+    ],
+    "icon": "media/icon-480.png",
+    "cover": "media/cover-1200x800.png",
+    "author": [
+      {
+        "name": "nanzhi1",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "4.10.0",
+      "file_name": "downloads/QQRT.rpk",
+      "versionCode": 80
+    },
+    "xmb9p": {
+      "version": "4.10.0",
+      "file_name": "downloads/QQRT.rpk",
+      "versionCode": 80
+    }
+  },
+  "ext": {}
+}
