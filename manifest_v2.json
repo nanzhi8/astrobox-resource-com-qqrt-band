@@ -41,9 +41,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95,
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -52,9 +52,9 @@
       ]
     },
     "xmb9p": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95,
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -63,9 +63,9 @@
       ]
     },
     "xmrw5": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95,
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -74,9 +74,9 @@
       ]
     },
     "xmrw5xring": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95,
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -85,9 +85,9 @@
       ]
     },
     "xmb10p": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95,
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101,
       "updatelogs": [
         {
           "version": "",
@@ -96,14 +96,14 @@
       ]
     },
     "xmws5": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101
     },
     "xmws4": {
-      "version": "4.12.1",
-      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
-      "versionCode": 95
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
+      "versionCode": 101
     }
   },
   "ext": {}
