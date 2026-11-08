@@ -3,7 +3,7 @@
     "id": "com.qqrt.band",
     "restype": "quick_app",
     "name": "QQRT",
-    "description": "QQRT 是一款为小米手环 ，Vela 手表等支持fetch设备打造的轻量 QQ 聊天客户端。搭配内置服务端使用，手表上就能查看好友和群聊、收发文字消息、群管理，查看图片与表情，支持全键盘拼音输入、长按引用/删除、点图看大图，消息自动跟随滚动。(原创：山城音&小猪 适配：南悸 交流群：1131231582 已内置workbuddy服务端托管 注册账号并绑定官方机器人（appid+appsecret)即可  （10p可能需要fetch插件）",
+    "description": "QQRT 是一款为小米手环 ，Vela 手表等支持fetch设备打造的轻量 QQ 聊天客户端。搭配内置服务端使用，手表上就能查看好友和群聊、收发文字消息、群管理，查看图片与表情，支持全键盘拼音输入、长按引用/删除、点图看大图，消息自动跟随滚动。(原创：山城音&小猪 适配：南悸 其核 交流群：1131231582 已内置workbuddy服务端托管 注册账号并绑定官方机器人（appid+appsecret)即可  （10p需要进群装fetch插件）",
     "preview": [
       "media/emu_w4.png",
       "media/emu_v410b.png",
@@ -41,9 +41,9 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10.rpk",
-      "versionCode": 91,
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -52,9 +52,9 @@
       ]
     },
     "xmb9p": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10.rpk",
-      "versionCode": 91,
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -63,9 +63,9 @@
       ]
     },
     "xmrw5": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10.rpk",
-      "versionCode": 91,
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -74,9 +74,9 @@
       ]
     },
     "xmrw5xring": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10.rpk",
-      "versionCode": 91,
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -85,9 +85,9 @@
       ]
     },
     "xmb10p": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10.rpk",
-      "versionCode": 91,
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95,
       "updatelogs": [
         {
           "version": "",
@@ -96,14 +96,14 @@
       ]
     },
     "xmws5": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10-xmws5.rpk",
-      "versionCode": 91
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95
     },
     "xmws4": {
-      "version": "4.11.10",
-      "file_name": "downloads/com.qqrt.band.release.4.11.10-xmws5.rpk",
-      "versionCode": 91
+      "version": "4.12.1",
+      "file_name": "downloads/com.qqrt.band.release.4.12.1.rpk",
+      "versionCode": 95
     }
   },
   "ext": {}
