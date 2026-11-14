@@ -42,8 +42,8 @@
   "downloads": {
     "xmrw6": {
       "version": "4.12.7",
-      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
-      "versionCode": 101,
+      "file_name": "downloads/QQRT_4.12.7_RW6_fix.rpk",
+      "versionCode": 102,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -64,8 +64,8 @@
     },
     "xmrw5": {
       "version": "4.12.7",
-      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
-      "versionCode": 101,
+      "file_name": "downloads/QQRT_4.12.7_RW6_fix.rpk",
+      "versionCode": 102,
       "updatelogs": [
         {
           "version": "4.11.10",
@@ -75,8 +75,8 @@
     },
     "xmrw5xring": {
       "version": "4.12.7",
-      "file_name": "downloads/com.qqrt.band.release.4.12.7.rpk",
-      "versionCode": 101,
+      "file_name": "downloads/QQRT_4.12.7_RW6_fix.rpk",
+      "versionCode": 102,
       "updatelogs": [
         {
           "version": "4.11.10",
