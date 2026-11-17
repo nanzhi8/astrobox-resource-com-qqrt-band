@@ -86,6 +86,11 @@
       "version": "4.12.8",
       "file_name": "downloads/QQRT_4.12.8_RW6_fix.rpk",
       "versionCode": 102
+    },
+    "xmws3": {
+      "version": "4.12.7",
+      "file_name": "downloads/com.qqrt.band.release.4.12.7（最新版软件.rpk",
+      "versionCode": 101
     }
   },
   "ext": {}
